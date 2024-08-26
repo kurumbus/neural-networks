@@ -13,3 +13,9 @@ https://github.com/user-attachments/assets/c47bafd0-3c8c-4391-a775-955e7a870015
 
 https://github.com/user-attachments/assets/a312aa1b-61db-40c7-8df3-3cd166a99a23
 
+[A3C for Kung Fu](https://github.com/kurumbus/neural-networks/blob/main/A3C_for_Kung_Fu.ipynb)  - a Network which knows Kung Fu (like agent Smith)
+
+
+
+https://github.com/user-attachments/assets/3bd2895c-9e70-4d5e-80e1-8f4235f64adc
+
